@@ -10,5 +10,5 @@ pip install docquery
 ```
 docquery scan allows you to ask one or more questions to a single document or directory of files. DocQuery can also be used as a library. It contains two basic abstractions: (1) a DocumentQuestionAnswering pipeline that makes it simple to ask questions of documents and (2) a Document abstraction that can parse various types of documents to feed into the pipeline.
 
-DocQuery App : [Application](https://huggingface.co/spaces/impira/docquery)
-Impira : [Developer Credit](https://github.com/impira/docquery)
+1. DocQuery App : [Application](https://huggingface.co/spaces/impira/docquery)
+2. Impira : [Developer Credit](https://github.com/impira/docquery)
